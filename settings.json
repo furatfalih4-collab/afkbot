@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "user",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "user",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "furatsmp.mcsh.io",
+    "port": 11621,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
