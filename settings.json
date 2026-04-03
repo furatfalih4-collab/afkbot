@@ -1,13 +1,13 @@
 {
-  "name": "user",
+  "name": "dream",
   "bot-account": {
-    "username": "user",
+    "username": "dream",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "furatsmp.mcsh.io",
-    "port": 11621,
+    "port": ,
     "version": "",
     "try-creative": false
   },
